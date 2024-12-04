@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <a name="readme-top"></a>
 
 
@@ -143,3 +144,9 @@ We welcome and appreciate contributions from the community ❤️! Here's how yo
 =======
 # Task_Management_System
 >>>>>>> a062e15b7755849e7c8e2ac5d8020013f3dcefdb
+=======
+Your local changes
+=======
+Changes from the remote repository
+>>>>>>> origin/main
+>>>>>>> cbb332044726c208d68a301f8d91cc1be5ab82c9
