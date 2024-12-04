@@ -1,1 +1,5 @@
-# Task_Management_System
+<<<<<<< HEAD
+Your local changes
+=======
+Changes from the remote repository
+>>>>>>> origin/main
